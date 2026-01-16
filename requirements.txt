@@ -1,2 +1,10 @@
 setuptools==80.9.0
 wheel==0.45.1
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+python-dotenv
+PyJWT
+passlib[bcrypt]
+email-validator
